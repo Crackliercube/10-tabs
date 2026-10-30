@@ -1,0 +1,68 @@
+html {
+background-color: cadetblue;
+}
+
+code {
+    background-color:rgba(0, 0, 0, 0.579);
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+.site-header{
+    background-color:bisque;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 20px 20px 0 20px;
+}
+
+.nav-tabs {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+    margin: 0;
+    gap: 3px;
+}
+
+.nav-tabs li{
+    flex: 1 1 0;
+}
+
+.main-site {
+    background-color: midnightblue;
+    padding: 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    line-height: 25pt;
+    color: white;
+}
+
+.nav-link {
+    margin-top: 15px;
+    background-color:rgb(51, 177, 182);
+    display: block;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 20px;
+    color:ghostwhite;
+    text-align:center;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    background-color: darkcyan;
+}
+
+.h2-sty {
+    color:lightslategray
+}
+
+.current-page{
+    background-color: midnightblue;
+    color:bisque
+}
