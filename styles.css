@@ -1,6 +1,8 @@
 html {
 background-color: cadetblue;
+ font-family: "Fascinate Inline", system-ui;
 }
+
 
 code {
     background-color:rgba(0, 0, 0, 0.579);
